@@ -1,0 +1,13 @@
+/* App-level styles */
+.App {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #fff3e4;
+}
+
+/* Optional: Remove default body margin if still affecting layout */
+body {
+  margin: 0;
+  background-color: #fff3e4;
+}
